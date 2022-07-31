@@ -1,1 +1,1 @@
-{"version":"1.2.1", "notes":"Remake of system!", "guide":"Do a fresh install of every file!"}
+{"version":"1.2.1", "notes":"Little bug fixed!", "guide":"Replace client.lua"}
