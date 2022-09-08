@@ -1,1 +1,1 @@
-{"version":"1.2", "notes":"Addded further vRP support", "guide":"If vRP do fresh reinstall!"}
+{"version":"1.2.2", "notes":"Fixed known bugs and improved", "guide":"Client and server folder reinstall"}
