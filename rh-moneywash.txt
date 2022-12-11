@@ -1,1 +1,1 @@
-{"version":"1.2.2", "notes":"Added custom logo config!", "guide":"Do a completely fresh install!"}
+{"version":"1.2.5", "notes":"Added support for new QB!", "guide":"!!QB ONLY!! A new config is made for people experiencing this issue - set it to true otherwise ignore"}
