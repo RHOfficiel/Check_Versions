@@ -1,0 +1,38 @@
+[
+  {
+		"version": "1.0",
+		"version_name": "Release",
+		"version_desc": "Start rh-core before any other RH scripts!",
+		"name": "rh-core"
+  },
+  {
+		"version": "1.0",
+		"version_name": "Release",
+		"version_desc": "Hope You Love It!",
+		"name": "rh-dailyrewards"
+  },
+  {
+		"version": "1.2",
+		"version_name": "Sound stacking bug",
+		"version_desc": "Do a fresh install!",
+		"name": "rh-drugsystem"
+  },
+  {
+		"version": "1.2.2",
+		"version_name": "Fixed known bugs and improved",
+		"version_desc": "Client and server folder reinstall",
+		"name": "rh-garage"
+  },
+  {
+		"version": "1.2.6",
+		"version_name": "Fixed bugs with QB",
+		"version_desc": "!!QB ONLY!! A new config is made for people experiencing this issue - set it to true otherwise ignore",
+		"name": "rh-moneywash"
+  },
+  {
+		"version": "1.0",
+		"version_name": "Release",
+		"version_desc": "Hope You Love It!",
+		"name": "rh-pausemenu"
+  }
+]
