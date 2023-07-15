@@ -30,9 +30,9 @@
 		"name": "rh-moneywash"
   },
   {
-		"version": "1.1",
-		"version_name": "Adding config",
-		"version_desc": "Adding menu color change",
+		"version": "1.2",
+		"version_name": "Fixed invisible ped",
+		"version_desc": "Replace client.lua",
 		"name": "rh-pausemenu"
   }
 ]
