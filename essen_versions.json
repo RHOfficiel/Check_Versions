@@ -1,0 +1,20 @@
+[
+    {
+        "name": "essen_garage",
+        "version": "1.0",
+        "version_name": "Version 1.0",
+        "version_desc": "Initial release."
+    },
+    {
+        "name": "essen_gateaway",
+        "version": "1.0",
+        "version_name": "Version 1.0",
+        "version_desc": "Initial release."
+    },
+    {
+        "name": "essen_interface",
+        "version": "1.0",
+        "version_name": "Version 1.0",
+        "version_desc": "Initial release."
+    }
+]
