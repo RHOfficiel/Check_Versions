@@ -1,1 +1,0 @@
-{"version":"1.2", "notes":"Sound stacking bug", "guide":"Do a fresh install!"}
